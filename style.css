@@ -1,8 +1,8 @@
 body {
-    background-color: antiquewhite;
+    background-color: aliceblue;
 }
 div{
-    background-color:green;
+    background-color:white;
     width: 100;
 }
 
@@ -12,28 +12,58 @@ div{
     height:100px;
 }
 .ul-navbar{
-background-color:;
+background-color:aqua;
 
 display:flex;
 justify-content: center;
+align-items: center;
 
 }
      
 .li-navbar{
-    border:3px solid black;
+    border:5px solidack;
     list-style-type:none;
-    padding:10px;
-    margin: 5px;
+    padding:15px;
+    margin: 25px;
+    font-size: 30px;
 }
 .container.navbar{
     background-color: black
-    .img;
+    
 }
 .container-content{
-background-color: aqua;
+background-color:aquamarine;
+
+justify-content: center;
+align-items: center;
+display: flex;
 
 }
+
 .img-content{
-    width: 15%;
-    height:15%;
+    width: 25%;
+    height:25%;
+}
+.content-setting{
+    justify-content: left;
+    align-items: last baseline;
+}
+.ferry-content{
+    width: 25%;
+    height: 25%;
+    align-items: first baseline;
+    display: flex;
+    justify-content: first baseline;
+}
+.felin-jpg{
+    width: 17%;
+height: 10%;
+align-items: first baseline;
+display: flex;
+justify-content: first baseline;
+}
+.felinn-jpg{
+    width:17%;
+    height: 10%;
+    
 }
